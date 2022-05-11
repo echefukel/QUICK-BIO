@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @echefukel
-- 👀 I’m interested in front end development 
-- 🌱 I’m currently learning HTML CSS Javascript and REACT
+- 👀 I am a frontend developer. 
+- 🌱 I’m  conversant with HTML CSS Javascript and REACT
 - 💞️ I’m looking to collaborate on any front end project
 - 📫 How to reach me ...
 
