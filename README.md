@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @echefukel
+- 👋 Hi, I’m Kelechi Obinna Echefu
 - 👀 I am a frontend developer. 
 - 🌱 I’m  conversant with HTML CSS Javascript and REACT
 - 💞️ I’m looking to collaborate on any front end project
