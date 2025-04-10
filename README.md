@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Kelechi Obinna Echefu
-- 👀 I am a frontend developer. 
-- 🌱 I’m  conversant with HTML CSS Javascript and REACT
-- 💞️ I’m looking to collaborate on any frontend project
-- 📫 How to reach me ...+2348134179313
--   My twitter handle is https://twitter.com/EchefuKelechi97
+**Hi, I'm [Kelechi] 👋**
 
-<!---
-echefukel/echefukel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Frontend Developer specializing in React and Tailwind CSS, passionate about creating responsive, user-friendly applications. I focus on writing clean, efficient code and designing intuitive UIs that deliver seamless user experiences.
+
+🔭 **Currently working on:** Building interactive dashboards and a virtual ecosystem for startups.
+
+⚡ **Skills & Tech:** React, Tailwind CSS, JavaScript, Git/GitHub, Firebase
+
+🔗 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/kelechi-echefu-22490710a/) 
+- [Twitter](https://twitter.com/Echefukelechi97) 
+  
